@@ -1,3 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    /* box-sizing: border-box; */
+}
+.box{
+    width:200px;
+    padding:20px;
+    border:5px solid black;
+}
+.box2{
+    width:200px;
+    padding:20px;
+    border:5px solid black;
+    box-sizing:border-box;
+}
+
+
 p{
     background-color: antiquewhite;
     font-size: 20px;
@@ -5,8 +23,15 @@ p{
 }
 
 
-.heading1.brown{
-    background-color: rgb(156, 162, 162);
-    border:5px solid rgba(87, 87, 87, 0.323);
-    color:rgb(45, 45, 45);
+.heading1{
+    
+    border:5px solid rgba(0, 0, 0, 0.986);
+    color:rgb(231, 226, 226);
+}
+.brown{
+    background-color: brown;
+}
+#heading2{
+    background-color: aqua;
+    border: 4px solid black;
 }
