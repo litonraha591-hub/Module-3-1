@@ -1,0 +1,12 @@
+p{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+
+.heading1.brown{
+    background-color: rgb(156, 162, 162);
+    border:5px solid rgba(87, 87, 87, 0.323);
+    color:rgb(45, 45, 45);
+}
